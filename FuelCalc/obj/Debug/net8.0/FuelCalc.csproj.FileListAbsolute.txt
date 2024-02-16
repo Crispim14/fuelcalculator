@@ -1,0 +1,14 @@
+Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\bin\Debug\net8.0\FuelCalc.exe
+Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\bin\Debug\net8.0\FuelCalc.deps.json
+Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\bin\Debug\net8.0\FuelCalc.runtimeconfig.json
+Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\bin\Debug\net8.0\FuelCalc.dll
+Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\bin\Debug\net8.0\FuelCalc.pdb
+Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\obj\Debug\net8.0\FuelCalc.GeneratedMSBuildEditorConfig.editorconfig
+Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\obj\Debug\net8.0\FuelCalc.AssemblyInfoInputs.cache
+Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\obj\Debug\net8.0\FuelCalc.AssemblyInfo.cs
+Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\obj\Debug\net8.0\FuelCalc.csproj.CoreCompileInputs.cache
+Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\obj\Debug\net8.0\FuelCalc.dll
+Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\obj\Debug\net8.0\refint\FuelCalc.dll
+Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\obj\Debug\net8.0\FuelCalc.pdb
+Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\obj\Debug\net8.0\FuelCalc.genruntimeconfig.cache
+Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\obj\Debug\net8.0\ref\FuelCalc.dll
