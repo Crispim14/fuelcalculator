@@ -12,3 +12,4 @@ Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\obj\Debug\net8.0\refint\Fue
 Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\obj\Debug\net8.0\FuelCalc.pdb
 Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\obj\Debug\net8.0\FuelCalc.genruntimeconfig.cache
 Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\obj\Debug\net8.0\ref\FuelCalc.dll
+Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\obj\Debug\net8.0\FuelCalc.sourcelink.json
