@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FuelCalc
-build_property.ProjectDir = Y:\JoãoCrispim-DanielaSarti\fuelcalculator\FuelCalc\
+build_property.ProjectDir = Y:\JoãoCrispim-DanielaSarti\fuelcalculator\fuelcalculator\FuelCalc\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

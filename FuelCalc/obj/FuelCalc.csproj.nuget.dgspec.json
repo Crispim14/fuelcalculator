@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\JoãoCrispim-DanielaSarti\\fuelcalculator\\FuelCalc\\FuelCalc.csproj": {}
+    "Y:\\JoãoCrispim-DanielaSarti\\fuelcalculator\\fuelcalculator\\FuelCalc\\FuelCalc.csproj": {}
   },
   "projects": {
-    "Y:\\JoãoCrispim-DanielaSarti\\fuelcalculator\\FuelCalc\\FuelCalc.csproj": {
+    "Y:\\JoãoCrispim-DanielaSarti\\fuelcalculator\\fuelcalculator\\FuelCalc\\FuelCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\JoãoCrispim-DanielaSarti\\fuelcalculator\\FuelCalc\\FuelCalc.csproj",
+        "projectUniqueName": "Y:\\JoãoCrispim-DanielaSarti\\fuelcalculator\\fuelcalculator\\FuelCalc\\FuelCalc.csproj",
         "projectName": "FuelCalc",
-        "projectPath": "Y:\\JoãoCrispim-DanielaSarti\\fuelcalculator\\FuelCalc\\FuelCalc.csproj",
+        "projectPath": "Y:\\JoãoCrispim-DanielaSarti\\fuelcalculator\\fuelcalculator\\FuelCalc\\FuelCalc.csproj",
         "packagesPath": "C:\\Users\\ALUNO\\.nuget\\packages\\",
-        "outputPath": "Y:\\JoãoCrispim-DanielaSarti\\fuelcalculator\\FuelCalc\\obj\\",
+        "outputPath": "Y:\\JoãoCrispim-DanielaSarti\\fuelcalculator\\fuelcalculator\\FuelCalc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
